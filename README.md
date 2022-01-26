@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 
 👨🏾‍🔬 &nbsp; I'm Amanuel Wolde-Kidan, computational Biophysicist sharing mostly science related code here.
 
