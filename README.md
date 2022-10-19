@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-👨🏾‍🔬 &nbsp; I'm Amanuel Wolde-Kidan, computational Biophysicist sharing mostly science related code here.
+👨🏾‍💻 &nbsp; I'm Amanuel Wolde-Kidan, Data Scientist with background in computational physics sharing personal code here.
 
 🖥 &nbsp; If you're are working with molecular dynamics simulations please also check out our open-source library [MAICoS](https://gitlab.com/netzlab/maicos).
 
